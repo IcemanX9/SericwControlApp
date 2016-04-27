@@ -1,0 +1,14 @@
+Hi Willie,
+
+Quick note to say there is a new version of the app. Unfortunately my auto-update code is buggy, so the guys need to install manually.
+
+1. Uninstall current app completely
+2. In chrome, open http://www.servicecontrol.co.za/mobile/ServiceControlMobile.apk
+3. Install
+4. Enter auth key as always 4kf3fmp84n5w
+5. Let it all sync up
+
+Now can download client site plans.
+
+Let's chat sometime this week.
+Cheers
